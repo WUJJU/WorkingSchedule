@@ -6,6 +6,7 @@ week1- Feb 15-21
   4 Apply for Word Bank....
   5 code interview 20
   6 Career Fair
+  7 H1B questions
   
 
   
