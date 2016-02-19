@@ -8,6 +8,8 @@ week1- Feb 15-21
   6 Career Fair(v)
   7 H1B questions(v)
   8 hackthon
+  9 prepare interview next thursday 
+
 
   
   
