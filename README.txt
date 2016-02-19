@@ -5,7 +5,7 @@ week1- Feb 15-21
   3 CP Reading Assignment2(v)
   4 Apply for Word Bank....
   5 code interview 20
-  6 Career Fair
+  6 Career Fair(v)
   7 H1B questions
   
 
