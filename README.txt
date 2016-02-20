@@ -9,6 +9,11 @@ week1- Feb 15-21
   7 H1B questions(v)
   8 hackthon
   9 prepare interview next thursday 
+  
+week2 Feb 22-29
+  1 apply for internaitonal organizations
+  2 code interview 20
+  
 
 
   
