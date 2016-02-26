@@ -13,10 +13,10 @@ week1- Feb 15-21
 week2 Feb 22-29
   1 apply for internaitonal organizations
   2 code interview 20
-  3 prepare interview thursday
+  3 prepare interview thursday(v)
   4 crawl twitter project
   5 15213
-  6 total goals in life
+  6 total goals in life(code, piano/guitar,exercise everyday)(v)
   7 mini project 2
   
 
