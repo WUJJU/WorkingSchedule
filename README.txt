@@ -24,8 +24,8 @@ week3 Feb 29-Mar 6
    2 code interview 20(6+5)
    3 15213
    4 mini project 2
-   5 cut hair
-   6 make sure interview result get up early 8am
+   5 cut hair/quater exchange
+   6 make sure interview result get up early 8am（v）
    
 
 
