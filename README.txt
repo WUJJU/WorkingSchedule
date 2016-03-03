@@ -26,6 +26,8 @@ week3 Feb 29-Mar 6
    4 mini project 2
    5 cut hair/quater exchange(v)
    6 make sure interview result get up early 8am（v）
+   7 take part in Career Open House
+   8 review CP for midterm
    
 
 
