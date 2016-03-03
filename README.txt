@@ -21,7 +21,7 @@ week2 Feb 22-29
   
 week3 Feb 29-Mar 6
    1 apply for internaitonal organizations
-   2 code interview 20(6+6)
+   2 code interview 20(6+7)
    3 15213
    4 mini project 2
    5 cut hair/quater exchange(v)
