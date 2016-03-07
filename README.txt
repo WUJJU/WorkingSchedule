@@ -20,17 +20,21 @@ week2 Feb 22-29
   7 mini project 2(half x)
   
 week3 Feb 29-Mar 6
-   1 apply for internaitonal organizations
+   1 apply for internaitonal organizations(X)
    2 code interview 20(6+7)
-   3 15213
-   4 mini project 2
+   3 15213(X)
+   4 mini project 2(V)
    5 cut hair/quater exchange(v)
    6 make sure interview result get up early 8am（v）
    7 take part in Career Open House(v)
-   8 review CP for midterm
+   8 review CP for midterm(X)
   
  weekr Mar 7-14
    1 rewrite Federate Search by Twitter and Facebook
+   2 Review CP for midterm
+   3 apply for internaitonal organizations & Thermo Sintific
+   4 code interview 20（13+）
+   5 15213
    
 
 
