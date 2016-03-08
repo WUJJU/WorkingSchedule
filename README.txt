@@ -33,7 +33,7 @@ week3 Feb 29-Mar 6
    1 rewrite Federate Search by Twitter and Facebook
    2 Review CP for midterm
    3 apply for internaitonal organizations(UN,WB,IMF,WHO) & Thermo Sintific(V)
-   4 code interview 20（13+）
+   4 code interview 20（13+1）
    5 15213
    
 
