@@ -29,12 +29,29 @@ week3 Feb 29-Mar 6
    7 take part in Career Open House(v)
    8 review CP for midterm(X)
   
- weekr Mar 7-14
-   1 rewrite Federate Search by Twitter and Facebook
-   2 Review CP for midterm
+ week4 Mar 7-14
+   1 rewrite Federate Search by Twitter and Facebook(x)
+   2 Review CP for midterm(v) 超乎想象的长
    3 apply for internaitonal organizations(UN,WB,IMF,WHO) & Thermo Sintific(V)
-   4 code interview 20（13+3）
-   5 15213
+   4 code interview 20（13+3）(x)
+   5 15213(x)
+   
+week5 Mar 14-20
+  1. Mid Exam
+  2. Call Interview 3:30 Wed
+  3. thursday suit
+  4. friday health career fair
+  5. code interview 30(16+)
+  6. resume(5)
+  
+  ######
+
+Final Plan before graduation:
+1 code interview(100)
+2 CP(A)
+3 two Projects: Federate Search by Twitter and Facebook and CP
+4 resume(100)
+5 exercise and piano(keep on)
    
 
 
