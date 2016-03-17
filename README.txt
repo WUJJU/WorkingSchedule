@@ -37,12 +37,13 @@ week3 Feb 29-Mar 6
    5 15213(x)
    
 week5 Mar 14-20
-  1. Mid Exam
-  2. Call Interview 3:30 Wed
+  1. Mid Exam（v)
+  2. Call Interview 3:30 Wed(v） wait for next copule weeks
   3. thursday suit
-  4. friday health career fair
+  4. friday health career fair, 3:30 meet with piano
   5. code interview 30(16+)
   6. resume(5)
+  7. next week presentation
   
   ######
 
