@@ -37,17 +37,25 @@ week3 Feb 29-Mar 6
    5 15213(x)
    
 week5 Mar 14-20
-  1. Mid Exam（v)
-  2. Call Interview 3:30 Wed(v） wait for next copule weeks
+  1. Mid Exam（V)
+  2. Call Interview 3:30 Wed(V） --wait for next copule weeks
   3. thursday suit(V)
-  4. friday health career fair, 3:30 meet with piano(X)
-  5. code interview 30(16+)
-  6. resume(5)
-  7. next week presentation
-  8. h1b INFO
-  9. prepare for union state interview
-  
+  4. friday health career fair(X)
+  10. 30 meet with piano(V)
+  5. code interview 30(16+1)(X)
+  6. resume(5)(X)
+  7. next week presentation(X)
+  8. h1b INFO(V)
+  9. prepare for union state interview(X)
+
+week6 Mar 21-27
+ 1. prepare for union state interview
+ 2. mini Presentation
+ 3. resume(0+2)
+ 4. code interview 30(17+)
+ 5.
   ######
+
 
 Final Plan before graduation:
 1 code interview(100)
