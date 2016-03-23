@@ -52,7 +52,7 @@ week6 Mar 21-27
  1. prepare for union state interview(v) follow up
  2. mini Presentation
  3. resume(0+2)
- 4. code interview 30(17+)
+ 4. code interview 30(27+)
  5.
   ######
 
