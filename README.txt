@@ -51,12 +51,12 @@ week5 Mar 14-20
 week6 Mar 21-27
  1. prepare for union state interview(v) follow up
  2. mini Presentation(V)
- 3. resume(0+2)
- 4. code interview 30(27+)
+ 3. resume(0+2)(x)
+ 4. code interview 30(31+)(v)
  
 week7 Mar 28- April 3
-1. code interview 
-2. resume
+1. code interview 20(31+) 
+2. resume 10()
 
  
   ######
