@@ -54,6 +54,11 @@ week6 Mar 21-27
  3. resume(0+2)
  4. code interview 30(27+)
  
+week7 Mar 28- April 3
+1. code interview 
+2. resume
+
+ 
   ######
 
 
