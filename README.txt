@@ -55,8 +55,10 @@ week6 Mar 21-27
  4. code interview 30(31+)(v)
  
 week7 Mar 28- April 3
-1. code interview 20(31+) 
+1. code interview 20(31+1)() 
 2. resume 10()
+3. read assignment 3
+4. contact with un
 
  
   ######
