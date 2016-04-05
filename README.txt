@@ -55,10 +55,18 @@ week6 Mar 21-27
  4. code interview 30(31+)(v)
  
 week7 Mar 28- April 3
-1. code interview 20(31+6)() 
+1. code interview 20(31+6)(x) 
 2. resume 10(x)
-3. read assignment 3
-4. contact with un(x)
+3. read assignment 3(v)
+4. contact with un(v)
+
+week8 April 4- April 10
+1. code interview 50(37+)(
+2. resume 10()
+3. hadoop project
+4. reject I&P
+5. find bed, rent house, sublease house
+
 
  
   ######
