@@ -61,12 +61,12 @@ week7 Mar 28- April 3
 4. contact with un(v)
 
 week8 April 4- April 10
-1. code interview 50(37+11)
+1. code interview 50(37+13)(v)
 2. resume 10()
 3. hadoop project
 4. reject I&P(v)
 5. find bed, rent house, sublease house
-
+6. Information Storage retrievel 
 
  
   ######
