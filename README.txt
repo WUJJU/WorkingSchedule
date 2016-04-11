@@ -62,13 +62,17 @@ week7 Mar 28- April 3
 
 week8 April 4- April 10
 1. code interview 50(50+13)(v)
-2. resume 10()
-3. hadoop project
+2. resume 10(x)
+3. hadoop project(x)
 4. reject I&P(v)
-5. find bed, rent house, sublease house
-6. Information Storage retrievel 
+5. find bed, rent house, sublease house(x)
+6. Information Storage retrievel (x)
 
- 
+week9 April 11- April 17
+1. hadoop prject
+2. code interview chapter 8
+3. resume(nyork)
+4. physic exmine 
   ######
 
 
