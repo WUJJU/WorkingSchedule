@@ -72,7 +72,7 @@ week9 April 11- April 17
 1. hadoop prject
 2. code interview chapter 8
 3. resume(nyork)
-4. physic exmine 
+4. physic exmine(v) 
   ######
 
 
