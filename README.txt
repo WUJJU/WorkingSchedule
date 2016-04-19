@@ -69,10 +69,17 @@ week8 April 4- April 10
 6. Information Storage retrievel (x)
 
 week9 April 11- April 17
-1. hadoop prject
-2. code interview chapter 8
-3. resume(nyork)
+1. hadoop prject(v)
+2. code interview chapter 8(x)
+3. resume(nyork)(x)
 4. physic exmine(v) 
+
+week10 April 18-24
+1.hadoop project continue()
+2.code interview chapter 8+9()
+3. finaical aid
+4. graduation 
+5. un physical exmine
   ######
 
 
