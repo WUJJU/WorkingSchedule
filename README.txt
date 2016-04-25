@@ -75,11 +75,20 @@ week9 April 11- April 17
 4. physic exmine(v) 
 
 week10 April 18-24
-1.hadoop project continue()
-2.code interview chapter 8+9()
-3. finaical aid
-4. graduation 
-5. un physical exmine
+1.hadoop project continue(v)
+2.code interview chapter 8+9(x)
+3. finaical aid(x)
+5. un physical exmine(v))
+
+week11 April 25-May 1
+
+1.code interview 9（）
+2. finacial aid
+3. graduation cloth
+4. ceremony 
+5. federate search java project
+6. Car repair
+7. House rent
   ######
 
 
