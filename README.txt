@@ -87,7 +87,7 @@ week11 April 25-May 1
 3. graduation cloth(v)
 4. ceremony 
 5. federate search java project
-6. Car repair
+6. Car repair(v)
 7. House rent
 8. Book sell
   ######
