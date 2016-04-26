@@ -82,9 +82,9 @@ week10 April 18-24
 
 week11 April 25-May 1
 
-1.code interview 9（）
-2. finacial aid
-3. graduation cloth
+1.code interview 9（v）
+2. finacial aid(v)
+3. graduation cloth(v)
 4. ceremony 
 5. federate search java project
 6. Car repair
