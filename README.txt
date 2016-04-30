@@ -89,16 +89,22 @@ week11 April 25-May 1
 5. federate search java project
 6. Car repair(v)
 7. House rent
-8. Book sell
+8. Book sell(v)
   ######
-
-
 Final Plan before graduation:
-1 code interview(100)
-2 CP(A)
+1 code interview(100)(v)
+2 CP(A)(v)
 3 two Projects: Federate Search by Twitter and Facebook and CP
 4 resume(100)
-5 exercise and piano(keep on)
+5 exercise and piano(keep on)(v)
+
+########
+
+Next plan for full-time job:
+1 resume
+2 house & location
+3 network
+4 java deep
    
 
 
