@@ -82,24 +82,32 @@ week10 April 18-24
 
 week11 April 25-May 1
 
-1.code interview 9（v）
+1. code interview 9（v）
 2. finacial aid(v)
-3. graduation cloth(v)
-4. ceremony 
-5. federate search java project
+4. ceremony (v)
+5. federate search java project(x)
 6. Car repair(v)
-7. House rent
+7. House rent(x)
 8. Book sell(v)
-  ######
+
+week12 May 2- May 8
+1. house rent
+2. federate search java project
+3. thread code interview
+4. resume revise and 20()
+
+
+
+######
+  
 Final Plan before graduation:
 1 code interview(100)(v)
 2 CP(A)(v)
-3 two Projects: Federate Search by Twitter and Facebook and CP
-4 resume(100)
+3 two Projects: Federate Search by Twitter and Facebook and CP(x)
+4 resume(100)(x)
 5 exercise and piano(keep on)(v)
 
 ########
-
 Next plan for full-time job:
 1 resume
 2 house & location
