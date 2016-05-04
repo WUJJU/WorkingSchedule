@@ -91,7 +91,7 @@ week11 April 25-May 1
 8. Book sell(v)
 
 week12 May 2- May 8
-1. house rent
+1. house rent()
 2. federate search java project
 3. thread code interview
 4. resume revise and 20()
