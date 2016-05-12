@@ -91,10 +91,20 @@ week11 April 25-May 1
 8. Book sell(v)
 
 week12 May 2- May 8
-1. house rent()
-2. federate search java project
-3. thread code interview
-4. resume revise and 20()
+1. house rent(v)
+2. federate search java project(x)
+3. thread code interview(x)
+4. resume revise and 20(x)
+
+week13 May 9 -May 15
+1. new york travel
+2 federate search java project
+
+week14 May 16- May 23
+1. resume revise and send
+2. rent my room
+3. thread and sort
+4. contact UN advisor
 
 
 
