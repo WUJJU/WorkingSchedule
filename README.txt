@@ -97,14 +97,18 @@ week12 May 2- May 8
 4. resume revise and 20(x)
 
 week13 May 9 -May 15
-1. new york travel
-2 federate search java project
+1. new york travel (v)
+2 federate search java project(x)
 
 week14 May 16- May 23
 1. resume revise and send
-2. rent my room
+2. rent my room(v)
 3. thread and sort
 4. contact UN advisor
+5. Driver License
+
+Week May 24-June 1
+
 
 
 
