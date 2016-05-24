@@ -101,15 +101,17 @@ week13 May 9 -May 15
 2 federate search java project(x)
 
 week14 May 16- May 23
-1. resume revise and send
+1. resume revise and send(x)
 2. rent my room(v)
-3. thread and sort
-4. contact UN advisor
-5. Driver License
+3. thread and sort(x)
+4. contact UN advisor(v)
+5. Driver License(x)
 6. Federate search java project(v)
+
 Week May 23-June 1
 1. thread and sort
-
+2. resume revise and send
+3. driver license
 
 
 ######
