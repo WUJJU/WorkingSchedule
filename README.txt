@@ -110,8 +110,9 @@ week14 May 16- May 23
 
 Week May 23-June 1
 1. thread and sort
-2. resume revise and send
-3. driver license
+2. resume revise and send(v)
+3. driver license(x)
+4. rent pitt room(
 
 
 ######
