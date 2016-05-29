@@ -108,12 +108,18 @@ week14 May 16- May 23
 5. Driver License(x)
 6. Federate search java project(v)
 
-Week May 23-June 1
-1. thread and sort
+Week15  May 23-May 29
+1. thread and sort(v)
 2. resume revise and send(v)
 3. driver license(x)
-4. rent pitt room(
+4. rent pitt room(v)
 
+Week16 May30 - June 4
+1. thread and sort
+2. application
+3. database project
+4. thinking in java
+5. move to NY
 
 ######
   
