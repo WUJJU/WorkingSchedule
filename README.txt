@@ -133,7 +133,7 @@ Final Plan before graduation:
 ########
 Next plan for full-time job:
 1 resume
-2 house & location
+2 house & location(v)
 3 network
 4 java deep
    
