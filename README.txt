@@ -116,10 +116,11 @@ Week15  May 23-May 29
 
 Week16 May30 - June 4
 1. thread and sort
-2. application
-3. database project
+2. application(v)
+3. database project(x)
 4. thinking in java
-5. move to NY
+5. move to NY(v)
+6. google code interview
 
 ######
   
