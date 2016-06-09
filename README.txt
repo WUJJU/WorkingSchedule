@@ -115,12 +115,18 @@ Week15  May 23-May 29
 4. rent pitt room(v)
 
 Week16 May30 - June 4
-1. thread and sort
+1. thread and sort(v)
 2. application(v)
 3. database project(x)
-4. thinking in java
+4. thinking in java(x)
 5. move to NY(v)
-6. google code interview
+6. google code interview(x)
+
+week17 June5-June 12
+1 google interview 
+2 leetcode 
+3 apply for job
+
 
 ######
   
@@ -133,7 +139,7 @@ Final Plan before graduation:
 
 ########
 Next plan for full-time job:
-1 resume
+1 resume(v)
 2 house & location(v)
 3 network
 4 java deep
