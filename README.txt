@@ -123,9 +123,19 @@ Week16 May30 - June 4
 6. google code interview(x)
 
 week17 June5-June 12
-1 google interview 
-2 leetcode 
-3 apply for job
+1 google interview (v, fail)
+2 leetcode (v)
+3 apply for job(x)
+
+week18 June 13-June 19
+
+1. Network UN
+2. Meeting once
+3. google shuan
+4. leetcode
+5. apply for job
+6. buy shirt,hair cut
+7. IBM interview
 
 
 ######
