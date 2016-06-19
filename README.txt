@@ -129,9 +129,9 @@ week17 June5-June 12
 
 week18 June 13-June 19
 
-1. Network UN
-2. Meeting once
-3. google shuan
+1. Network UN（v)
+2. Meeting once(x)
+3. google shuan(v)
 4. leetcode
 5. apply for job
 6. buy shirt,hair cut
