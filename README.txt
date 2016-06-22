@@ -132,11 +132,16 @@ week18 June 13-June 19
 1. Network UN（v)
 2. Meeting once(x)
 3. google shuan(v)
-4. leetcode
-5. apply for job
-6. buy shirt,hair cut
-7. IBM interview
+4. leetcode(x)
+5. apply for job(x)
+6. buy shirt,hair cut(v)
+7. IBM interview(v)
 
+week19 June 21-June28
+
+1.apply for job
+2. leetcode, google suggestion
+3. UN network
 
 ######
   
